@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Stint+Ultra+Condensed);
+@import url(https://fonts.googleapis.com/css?family=Ultra);
+@import url(https://fonts.googleapis.com/css?family=Stint+Ultra+Expanded);
+
+body {
+	background-color: #E0E0E0;
+	color: #008040;
+	font-size: 20px;
+	font-family: 'Roboto', cursive;
+	font-weight: 700;
+	
+}
+h1 {
+	color: #004000; 
+	text-align: center;
+}
+
+.header {
+	font-family: 'Stint Ultra Expanded', cursive;
+}
+
+.header span {
+	font-family: 'Ultra', serif;
+}
+
+.nygreen{
+	width: 25%;
+}
+
